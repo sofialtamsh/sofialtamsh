@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Sofi Altamsh 🤖
 
-A Profession Enthusiast with a passion for 🔥 building innovative projects and 🤝 collaborating with others. I'm always on the lookout for new technologies to learn and 🚀 launch into the stratosphere!
+A Profession Enthusiast with a passion for 🔥 developing data-driven solutions. With a strong foundation in 🔥 Python, data analysis, 🔥 NLP and 🔥 machine learning techniques, I am eager to apply my skills in building innovative models that solve real-world problems. My focus is on creating 🔥 effective NLP models, optimizing algorithms, and exploring 🔥 cutting-edge AI technologies. I am committed to continuous learning and ready to contribute to impactful projects in the field of machine learning and NLP. 🔥 building innovative projects and 🤝 collaborating with others. I'm always on the lookout for new technologies to learn and 🚀 launch into the stratosphere!
 
 **About Me:**
 
