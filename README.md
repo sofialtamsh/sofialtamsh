@@ -4,11 +4,11 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 
 **About Me:**
 
-* 📍 Currently trainee at Masai School. 🏢
-* 💻 Experienced in SQL, Python, Powerbi, MongoDB, NLP, GenAI, Machine Learning. 💻
+* 📍 Currently an ML Engineer and IA at Masai. 🏢
+* 💻 Experienced in SQL, Python, Powerbi, MongoDB, NLP- LLM models, RAG, GenAI, Machine Learning. 💻
 * 🎯 Strong Computer Science Background -- B.Tech from Government College of Engineering Aurangabad 🎯
 * 🤝 Always eager to learn and collaborate with others. 👫
-* 📍 Aspiring Data Analyst or AI/NLP developer. 📍
+* 📍 ML-NLP Engineer. 📍
 
 **My Projects:**
 
