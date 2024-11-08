@@ -43,7 +43,7 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 
 * 📱 Email: sofialtamsh123@gmail.com.
 * 💼 LinkedIn: https://www.linkedin.com/in/sofi-altamsh-409831193/
-* 🐦 Twitter: https://www.twitter.com/Ryuma_011.
+* 🐦 Twitter: https://www.twitter.com/godking_Ryuma.
 
 **Fun Facts:**
 
