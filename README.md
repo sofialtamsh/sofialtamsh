@@ -47,7 +47,7 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 
 **Fun Facts:**
 
-* 🎮 I'm a gamer at heart and love playing Call of Duty, Gerena Free Fire, Chess, Cricket in my free time.
-* 📚 I'm an avid reader and enjoy reading books and Manga series. Favourite - One Piece
-* 🎉 I'm a geek and tech enthusiast
+* 🎮 Content Creater, plays Call of Duty, Gerena Free Fire, Chess, Cricket in free time.
+* 📚 An avid reader and enjoy reading books and Manga series. Favourite - One Piece
+* 🎉 Geek and Tech Enthusiast
 
