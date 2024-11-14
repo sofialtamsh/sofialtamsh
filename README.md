@@ -12,16 +12,28 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 
 **My Projects:**
 
-* 🤖 [Project 1: Brief Description](https://github.com/sofialtamsh/Face-Mask_Detection) 👩🏻‍💻
+* 👩🏻‍💻 [Project 1: Brief Description](https://github.com/sofialtamsh/Face-Mask_Detection) 👩🏻‍💻
 * 🚀 [Project 2: Brief Description](https://github.com/sofialtamsh/Fake_News_Detection) 🚀
-* 🚀 [Project 3: Brief Description](https://github.com/suryaprakash-sp/AMD_Architects_064-) 📊
+* 📊 [Project 3: Brief Description](https://github.com/suryaprakash-sp/AMD_Architects_064-) 📊
 * 🤖 [Project 4: Brief Description](https://github.com/ajaym007/Bill-of-Rights-Blockchain_051) 🤖
 
 **Skills:**
 
 ### Programming
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</a>
+<a href="https://www.ruby-lang.org/en/">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+</a>
 
 ### Data Management
 
@@ -52,4 +64,3 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 * 🎮 Content Creater, plays Call of Duty, Gerena Free Fire, Chess, Cricket in free time.
 * 📚 An avid reader and enjoy reading books and Manga series. Favourite - One Piece
 * 🎉 Geek and Tech Enthusiast
-
