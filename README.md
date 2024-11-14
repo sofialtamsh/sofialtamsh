@@ -12,10 +12,10 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 
 **My Projects:**
 
-* 🤖 [Project 2: Brief Description]([https://github.com/ajaym007/Bill-of-Rights-Blockchain_051](https://github.com/sofialtamsh/Face-Mask_Detection)) 🤖
-* 🚀 [Project 1: Brief Description]([https://github.com/suryaprakash-sp/AMD_Architects_064-](https://github.com/sofialtamsh/Fake_News_Detection)) 📊
-* 🚀 [Project 1: Brief Description](https://github.com/suryaprakash-sp/AMD_Architects_064-) 📊
-* 🤖 [Project 2: Brief Description](https://github.com/ajaym007/Bill-of-Rights-Blockchain_051) 🤖
+* 🤖 [Project 1: Brief Description](https://github.com/sofialtamsh/Face-Mask_Detection) 🤖
+* 🚀 [Project 2: Brief Description](https://github.com/sofialtamsh/Fake_News_Detection) 📊
+* 🚀 [Project 3: Brief Description](https://github.com/suryaprakash-sp/AMD_Architects_064-) 📊
+* 🤖 [Project 4: Brief Description](https://github.com/ajaym007/Bill-of-Rights-Blockchain_051) 🤖
 
 **Skills:**
 
