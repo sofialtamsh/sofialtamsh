@@ -64,3 +64,6 @@ A Profession Enthusiast with a passion for 🔥 developing data-driven solutions
 * 🎮 Content Creater, plays Call of Duty, Gerena Free Fire, Chess, Cricket in free time.
 * 📚 An avid reader and enjoy reading books and Manga series. Favourite - One Piece
 * 🎉 Geek and Tech Enthusiast
+
+
+![snake gif](https://github.com/sofialtamsh/sofialtamsh/blob/output/github-snake-dark.svg)
