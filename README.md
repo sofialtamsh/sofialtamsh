@@ -19,18 +19,21 @@ I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of dat
 ---
 
 ## **My Awesome Projects**
+### 🤖 [**NLP Chatbot**](https://github.com/sofialtamsh/NLP-Chatbot)  
+*💬 A chatbot powered by natural language processing techniques to interact with users and provide information.*
+### 🦾 [**Face Mask Detection**](https://github.com/sofialtamsh/Face-Mask_Detection)  
+*🎯 A real-time machine learning model to detect face masks in images and videos.*
 
-### 🚀 [**Face Mask Detection**](https://github.com/sofialtamsh/Face-Mask_Detection)  
-*👩🏻‍💻 A real-time machine learning model to detect face masks in images and videos.*
+### 📰 [**Fake News Detection**](https://github.com/sofialtamsh/Fake_News_Detection)  
+*🔍 A model that identifies fake news using natural language processing techniques.*
 
-### 🚀 [**Fake News Detection**](https://github.com/sofialtamsh/Fake_News_Detection)  
-*📊 A model that identifies fake news using natural language processing techniques.*
+### 🏛️ [**AMD Architects**](https://github.com/suryaprakash-sp/AMD_Architects_064-)  
+*🏗️ A system that uses AI to automate architectural design processes.*
 
-### 📊 [**AMD Architects**](https://github.com/suryaprakash-sp/AMD_Architects_064-)  
-*🏢 A system that uses AI to automate architectural design processes.*
+### 🧩 [**Bill of Rights Blockchain**](https://github.com/ajaym007/Bill-of-Rights-Blockchain_051)  
+*🔐 A decentralized blockchain project to manage rights and governance.*
 
-### 🤖 [**Bill of Rights Blockchain**](https://github.com/ajaym007/Bill-of-Rights-Blockchain_051)  
-*🔗 A decentralized blockchain project to manage rights and governance.*
+
 
 ---
 
