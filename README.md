@@ -1,6 +1,6 @@
 # 👋 **Hey there! I'm Sofi Altamsh** 🤖
 
-I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, and cutting-edge **machine learning** techniques. My goal is to create impactful models that solve real-world problems and push the boundaries of **AI**.
+I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
 
 💡 I focus on crafting **effective NLP models**, optimizing **algorithms**, and exploring the latest in **AI technologies**. I’m all about **continuous learning** and always looking for opportunities to collaborate on projects that make a difference. 🚀
 
@@ -18,7 +18,7 @@ I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of dat
 
 ---
 
-## **My Awesome Projects**
+## **My Awesome Projects** 
 ### 🤖 [**NLP Chatbot**](https://github.com/sofialtamsh/NLP-Chatbot)  
 *💬 A chatbot powered by natural language processing techniques to interact with users and provide information.*
 ### 🦾 [**Face Mask Detection**](https://github.com/sofialtamsh/Face-Mask_Detection)  
