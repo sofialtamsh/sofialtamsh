@@ -10,7 +10,7 @@ I'm a passionate **Natural Language Processing (NLP) Engineer** & **AI Enthusias
 
 ## **About Me**
 
-- 📍 **Currently an ML Engineer and AI Specialist** at **Masai** 🏢
+- 📍 **Currently an Natural Language Processing (NLP) Engineer and AI Specialist** at **Masai** 🏢
 - 💻 **Skilled in**: **Python**, **SQL**, **PowerBI**, **MongoDB**, **NLP (LLM models)**, **RAG**, **GenAI**, **Machine Learning** 💻
 - 🎓 **B.Tech** in **Computer Science** from **Government College of Engineering, Aurangabad** 🎯
 - 🤝 Always eager to **learn**, **collaborate**, and make an impact 👫
