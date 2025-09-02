@@ -183,5 +183,5 @@ I'm a passionate **Natural Language Processing (NLP) Engineer** & **AI Enthusias
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&section=footer" />
 </p>
