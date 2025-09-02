@@ -1,4 +1,7 @@
-# 👋 **Hey there! I'm Sofi Altamsh** 🤖
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+Coder!+Welcome+to+My+Github+%F0%9F%94%8E;Sofi+Altamsh+Here+%F0%9F%9A%80;Coding+The+Future...;NLP+%7C+AI+%7C+Machine+Learning+%7C+DevLife"/>
+</div>
+
 
 I'm a passionate **Natural Language Processing (NLP) Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
 
@@ -6,90 +9,179 @@ I'm a passionate **Natural Language Processing (NLP) Engineer** & **AI Enthusias
 
 🌟 Whether it's building **innovative projects**, collaborating with talented teams, or diving into emerging technologies, I’m excited to bring ideas to life and push the envelope in AI.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## **About Me**
+<h2 align="center" style="color:#61DAFB;">👩‍💻 About Me ✨</h2>
 
-- 📍 **Currently an Natural Language Processing (NLP) Engineer and AI Specialist** at **Masai** 🏢
-- 💻 **Skilled in**: **Python**, **SQL**, **PowerBI**, **MongoDB**, **NLP (LLM models)**, **RAG**, **GenAI**, **Machine Learning** 💻
-- 🎓 **B.Tech** in **Computer Science** from **Government College of Engineering, Aurangabad** 🎯
-- 🤝 Always eager to **learn**, **collaborate**, and make an impact 👫
-- 📍 **ML-NLP Engineer** – Focused on driving **AI** and **ML** innovation 📍
+<ul>
+  <li>📍 <strong>Currently a Natural Language Processing (NLP) Engineer and AI Specialist</strong> at <strong>Masai</strong> 🏢</li>
+  <li>💻 <strong>Skilled in:</strong> Python, SQL, PowerBI, MongoDB, NLP (LLM models), RAG, GenAI, Machine Learning 💻</li>
+  <li>🎓 <strong>B.Tech</strong> in <strong>Computer Science</strong> from <strong>Government College of Engineering, Aurangabad</strong> 🎯</li>
+  <li>🤝 Always eager to <strong>learn</strong>, <strong>collaborate</strong>, and make an impact 👫</li>
+  <li>📍 <strong>ML-NLP Engineer</strong> – Focused on driving <strong>AI</strong> and <strong>ML</strong> innovation 📍</li>
+</ul>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## **My Awesome Projects** 
-### 🤖 [**NLP Chatbot**](https://github.com/sofialtamsh/NLP-Chatbot)  
-*💬 A chatbot powered by natural language processing techniques to interact with users and provide information.*
-### 🦾 [**Face Mask Detection**](https://github.com/sofialtamsh/Face-Mask_Detection)  
-*🎯 A real-time machine learning model to detect face masks in images and videos.*
+<h2 align="center" style="color:#61DAFB;">🚀 My Awesome Projects</h2>
 
-### 📰 [**Fake News Detection**](https://github.com/sofialtamsh/Fake_News_Detection)  
-*🔍 A model that identifies fake news using natural language processing techniques.*
+<table align="center" cellspacing="15">
+  <tr>
+    <td align="center" valign="top" width="300">
+      <h3>🤖 <a href="https://github.com/sofialtamsh/NLP-Chatbot" target="_blank"><strong>NLP Chatbot</strong></a></h3>
+      <p>💬 A chatbot powered by natural language processing techniques to interact with users and provide information.</p>
+    </td>
+    <td align="center" valign="top" width="300">
+      <h3>🦾 <a href="https://github.com/sofialtamsh/Face-Mask_Detection" target="_blank"><strong>Face Mask Detection</strong></a></h3>
+      <p>🎯 A real-time machine learning model to detect face masks in images and videos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="300">
+      <h3>📰 <a href="https://github.com/sofialtamsh/Fake_News_Detection" target="_blank"><strong>Fake News Detection</strong></a></h3>
+      <p>🔍 A model that identifies fake news using natural language processing techniques.</p>
+    </td>
+    <td align="center" valign="top" width="300">
+      <h3>🏛️ <a href="https://github.com/suryaprakash-sp/AMD_Architects_064-" target="_blank"><strong>AMD Architects</strong></a></h3>
+      <p>🏗️ A system that uses AI to automate architectural design processes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2" width="600">
+      <h3>🧩 <a href="https://github.com/ajaym007/Bill-of-Rights-Blockchain_051" target="_blank"><strong>Bill of Rights Blockchain</strong></a></h3>
+      <p>🔐 A decentralized blockchain project to manage rights and governance.</p>
+    </td>
+  </tr>
+</table>
 
-### 🏛️ [**AMD Architects**](https://github.com/suryaprakash-sp/AMD_Architects_064-)  
-*🏗️ A system that uses AI to automate architectural design processes.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧩 [**Bill of Rights Blockchain**](https://github.com/ajaym007/Bill-of-Rights-Blockchain_051)  
-*🔐 A decentralized blockchain project to manage rights and governance.*
+<h2 align="center">Main Projects 💻</h2>
+<div align="center">
+  <a href="https://github.com/sofialtamsh/NLP-Chatbot">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofialtamsh&repo=NLP-Chatbot&theme=transparent&hide_border=true"/>
+    </a>
+  
+  <a href="https://github.com/sofialtamsh/Face-Mask_Detection">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofialtamsh&repo=Face-Mask_Detection&theme=transparent&hide_border=true"/>
+   </a>
+        
+   <a href="https://github.com/sofialtamsh/Fake_News_Detection">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofialtamsh&repo=Fake_News_Detection&theme=transparent&hide_border=true"/>
+    </a>
+
+   <a href="https://github.com/suryaprakash-sp/AMD_Architects_064-">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash-sp&repo=AMD_Architects_064-&theme=transparent&hide_border=true"/>
+    </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">⚙️ <strong>Programming Skills</strong></h2>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" title="Python" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50"/>
+  </a>
+</p>
+
+<h3 align="center" style="color:#61DAFB;">💾 Data Management</h3>
+
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="margin:0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="margin:0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
+</p>
+
+
+<h3 align="center" style="color:#61DAFB;">📊 Data Visualization</h3>
+
+<p align="center">
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI" style="margin:0 15px;">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="120"/>
+  </a>
+</p>
+
+<h3 align="center" style="color:#61DAFB;">📈 Spreadsheets</h3>
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel" style="margin:0 15px;">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="120"/>
+  </a>
+</p>
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## **Programming Skills**
+<h3 align="center" style="color:#61DAFB;">📉 Performance Stats ⚡</h3>
+<div align="center">
+  
+![Sofi Altamsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofialtamsh&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
+</div>
 
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-</a>
+![Sofi Altamsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sofialtamsh&theme=react-dark)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-</a>
+</div>
 
-<a href="https://www.ruby-lang.org/en/">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### **Data Management**
 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+<h2 align="center" style="color:#61DAFB;">Contact Information</h2>
 
-### **Data Visualization**
+<p align="center">
+  <a href="mailto:sofialtamsh123@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sofi-altamsh-409831193/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.twitter.com/godking_Ryuma" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/>
+  </a>
+</p>
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 
-### **Spreadsheets**
 
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<h2 align="center">🎮✨ <strong>Fun Facts About Me</strong> ✨📚</h2>
 
-## **Stats**
+<p align="center">
+  <img src="https://img.shields.io/badge/Gamer-🎮-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manga_Lover-📚-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Enthusiast-🤖-purple?style=for-the-badge"/>
+</p>
 
-[![Sofialtamsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofialtamsh&show_icons=true)](https://github.com/sofialtamsh)
+<ul>
+  <li>🎮 <strong>Gamer</strong>: I’m a content creator who enjoys <strong>Call of Duty</strong>, <strong>Free Fire</strong>, <strong>Chess</strong>, and <strong>Cricket</strong> 🏏.</li>
+  <li>📚 <strong>Bookworm</strong>: I love reading, especially <strong>One Piece</strong> and manga! 🏴‍☠️</li>
+  <li>🤓 <strong>Tech Geek</strong>: Always exploring the latest in <strong>AI</strong>, <strong>ML</strong>, and tech trends 💻.</li>
+</ul>
 
----
 
-## **Contact Information**
 
-- 📧 **Email**: [sofialtamsh123@gmail.com](mailto:sofialtamsh123@gmail.com)
-- 💼 **LinkedIn**: [Sofi Altamsh](https://www.linkedin.com/in/sofi-altamsh-409831193/)
-- 🐦 **Twitter**: [@godking_Ryuma](https://www.twitter.com/godking_Ryuma)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## **Fun Facts**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=08F7FE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+universe+%F0%9F%8C%8C;Feel+free+to+collab+or+drop+a+message.;Until+next+time%2C+keep+building+the+future!"/>
+</p>
 
-- 🎮 **Gamer**: I’m a content creator who enjoys **Call of Duty**, **Free Fire**, **Chess**, and **Cricket**. 🏏
-- 📚 **Bookworm**: I love reading, especially **One Piece** and manga! 🏴‍☠️
-- 🎉 **Tech Geek**: Always exploring new **AI**, **ML**, and tech trends. 🤓💻
-
----
-
-![snake gif](https://github.com/sofialtamsh/sofialtamsh/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&section=footer" />
+</p>
