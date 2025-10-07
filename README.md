@@ -3,7 +3,7 @@
 </div>
 
 
-I'm a passionate **Natural Language Processing (NLP) Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
+I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
 
 💡 I focus on crafting **effective NLP models**, optimizing **algorithms**, and exploring the latest in **AI technologies**. I’m all about **continuous learning** and always looking for opportunities to collaborate on projects that make a difference. 🚀
 
