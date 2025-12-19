@@ -32,7 +32,7 @@ I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, d
       <p>💬 A chatbot powered by natural language processing techniques to interact with users and provide information.</p>
     </td>
     <td align="center" valign="top" width="300">
-      <h3>🦾 <a href="https://github.com/sofialtamsh/Face-Mask_Detection" target="_blank"><strong>Face Mask Detection</strong></a></h3>
+      <h3>🦾 <a href="https://github.com/sofialtamsh/Face_Mask_Detection" target="_blank"><strong>Face Mask Detection</strong></a></h3>
       <p>🎯 A real-time machine learning model to detect face masks in images and videos.</p>
     </td>
   </tr>
@@ -56,7 +56,7 @@ I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, d
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">Main Projects 💻</h2>
+<!-- <h2 align="center">Main Projects 💻</h2>
 <div align="center">
   <a href="https://github.com/sofialtamsh/NLP-Chatbot">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofialtamsh&repo=NLP-Chatbot&theme=transparent&hide_border=true"/>
@@ -73,9 +73,9 @@ I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, d
    <a href="https://github.com/suryaprakash-sp/AMD_Architects_064-">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash-sp&repo=AMD_Architects_064-&theme=transparent&hide_border=true"/>
     </a>
-</div>
+</div> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h2 align="center">⚙️ <strong>Programming Skills</strong></h2>
 
@@ -94,32 +94,43 @@ I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, d
   </a>
 </p>
 
-<h3 align="center" style="color:#61DAFB;">💾 Data Management</h3>
 
+<!-- AI / Machine Learning -->
+<h3 align="center">🤖 AI • Machine Learning • NLP</h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="margin:0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="margin:0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/></br>
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" height="30"/></br>
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-blue?style=for-the-badge" height="30"/></br>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-red?style=for-the-badge" height="30"/></br>
 </p>
 
-
-<h3 align="center" style="color:#61DAFB;">📊 Data Visualization</h3>
-
+<h3 align="center">💾 Databases</h3>
 <p align="center">
-  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI" style="margin:0 15px;">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="120"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/VectorDB-Pinecone-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge" height="30"/>
 </p>
 
-<h3 align="center" style="color:#61DAFB;">📈 Spreadsheets</h3>
-
+<!-- Data Visualization -->
+<h3 align="center">📊 Data Visualization</h3>
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel" style="margin:0 15px;">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="120"/>
-  </a>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" height="30"/>
+</p>
+
+<!-- Tools -->
+<h3 align="center">🧰 Tools & DevOps</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-F29100?style=for-the-badge&logo=aws-lambda&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
 </p>
 
 
