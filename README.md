@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+Coder!+Welcome+to+My+Github+%F0%9F%94%8E;Sofi+Altamsh+Here+%F0%9F%9A%80;Coding+The+Future...;NLP+%7C+AI+%7C+Machine+Learning+%7C+DevLife"/>
 </div>
  
- 
+  
 I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
 
 💡 I focus on crafting **effective NLP models**, optimizing **algorithms**, and exploring the latest in **AI technologies**. I’m all about **continuous learning** and always looking for opportunities to collaborate on projects that make a difference. 🚀
