@@ -3,7 +3,7 @@
 </div>
   
       
-I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
+I'm a passionate **Machine Learning Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, **LLMs**, **Deep Learning** and cutting-edge **machine learning** techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of **AI**.
 
 💡 I focus on crafting **effective NLP models**, optimizing **algorithms**, and exploring the latest in **AI technologies**. I’m all about **continuous learning** and always looking for opportunities to collaborate on projects that make a difference. 🚀
 
@@ -14,7 +14,6 @@ I'm a passionate **Natural Language Processing Engineer** & **AI Enthusiast**, d
 <h2 align="center" style="color:#61DAFB;">👩‍💻 About Me ✨</h2>
 
 <ul>
-  <li>📍 <strong>Currently a Natural Language Processing (NLP) Engineer and AI Specialist</strong> at <strong>Masai</strong> 🏢</li>
   <li>💻 <strong>Skilled in:</strong> Python, SQL, PowerBI, MongoDB, NLP (LLM models), RAG, GenAI, Machine Learning 💻</li>
   <li>🎓 <strong>B.Tech</strong> in <strong>Computer Science</strong> from <strong>Government College of Engineering, Aurangabad</strong> 🎯</li>
   <li>🤝 Always eager to <strong>learn</strong>, <strong>collaborate</strong>, and make an impact 👫</li>
